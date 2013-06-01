@@ -52,7 +52,7 @@ y así contribuir y actualizar los datos.
 
 Este simple proceso de carga de datos distribuída permitiría no sólo controlar el acuerdo de
 precios (reemplazando o ayudando eficientemente a los voluntarios mirones) y habilitar a
-Moreno (te banco, sabelo) a encajar una buenas multas, sino algo mucho más efectivo: que la gente sepa **a priori**, mirando su teléfono o la web, dónde comprar más barato y quién/es la están cagando.
+Moreno (te banco, sabelo) a encajar unas buenas multas, sino algo mucho más efectivo: **que la gente sepa a priori**, mirando su teléfono o la web, **dónde comprar más barato y quién/es la están cagando**.
 
 Por otro lado, la exposición pública de los precios históricos alentaría la competencia de los super, que suelen tener esas políticas estilo *"te devolvemos la plata si encontrás un precio más barato"* pero que resultan ser mero marketing por la dificultad de utilizarlas.
 
